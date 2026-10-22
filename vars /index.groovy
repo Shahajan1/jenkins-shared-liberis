@@ -1,3 +1,4 @@
-def call(){
-echo "git repo has been created to learn Jenkins shared libraries"
+def call() {
+    echo 'Hello from the Jenkins Shared Library!'
+    echo 'The index function is working successfully.'
 }
